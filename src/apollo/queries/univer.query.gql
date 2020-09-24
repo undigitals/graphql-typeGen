@@ -1,0 +1,5 @@
+query univer{
+  universities(orderBy: id_ASC){
+    ...University
+  }
+}

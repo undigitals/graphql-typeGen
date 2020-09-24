@@ -1,0 +1,3 @@
+fragment University on University{
+    nameEng
+}

@@ -1,0 +1,5 @@
+query univerNofr{
+  universities(orderBy: id_ASC){
+  	nameEng
+  }
+}
